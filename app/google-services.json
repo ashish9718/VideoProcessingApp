@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153079538517",
+    "firebase_url": "https://video-processing-app.firebaseio.com",
+    "project_id": "video-processing-app",
+    "storage_bucket": "video-processing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153079538517:android:ea870c9617ae2aa4c645dc",
+        "android_client_info": {
+          "package_name": "com.ashish.videoprocessingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153079538517-2g3rs51op9q5m04l5evl5bodje4lb0q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNaGFvzVpAsU0eHtcXAEXl3M_8dLpK5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153079538517-2g3rs51op9q5m04l5evl5bodje4lb0q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
