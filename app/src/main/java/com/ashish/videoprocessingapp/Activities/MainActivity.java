@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, VideoProcessingActivity.class));
-                Toast.makeText(MainActivity.this,"Please slide to view SeekBar.",Toast.LENGTH_SHORT).show();
             }
         });
 
