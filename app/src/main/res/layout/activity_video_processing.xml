@@ -27,7 +27,7 @@
         rsb:activeColor="#ED1C24"
         rsb:barHeight="1dp"
         rsb:textAboveThumbsColor="#000000"
-        app:showLabels="false"
+        app:showLabels="true"
         android:layout_below="@+id/videoView"
         app:layout_constraintEnd_toEndOf="@+id/videoView"
         app:layout_constraintHorizontal_bias="1.0"
